@@ -40,3 +40,61 @@ It has been created to:
 
 ## 📂 Repository Structure
 
+Each directory includes assignments, lab work, and reports related to that semester’s subjects.
+
+---
+
+## 🔒 Access & Usage
+
+This repository is meant **exclusively for academic reference** by my **M.Tech (IT)** batchmates at **MMMUT, Gorakhpur**.
+
+Please follow these simple guidelines:
+
+- ✅ You may **view, download, or refer** to materials for study.  
+- 🚫 Do **not** share or upload files publicly elsewhere.  
+- 🧾 Respect privacy and academic honesty — no plagiarism or misuse.  
+
+> 🛡️ This repository is private, respectful, and maintained for educational use only.
+
+---
+
+## 🧑‍🎓 Maintainer
+
+**Maintained by:**  
+> [Your Name]  
+> M.Tech (Information Technology), MMMUT Gorakhpur  
+> *(Batch of YYYY–YYYY)*  
+
+If you’re part of our batch and need access or updates, contact me directly.
+
+---
+
+## ⚠️ Disclaimer
+
+All materials in this repository are shared **strictly for educational and academic purposes**.  
+They do **not represent official university content**, nor should they be reproduced or redistributed elsewhere.
+
+> _Private educational resource — created for trust, learning, and convenience._
+
+---
+
+## 💬 Notes
+
+- The repository may include assignments, mini-projects, and notes prepared by me or shared within the batch.  
+- Some files may be updated or replaced as coursework progresses.  
+- Please keep backups and use responsibly.
+
+---
+
+## 🏷️ Tags
+
+`#MMMUT` `#MTechIT` `#Assignments` `#Gorakhpur`  
+`#PrivateRepo` `#AcademicArchive` `#BatchmatesOnly`
+
+---
+
+<p align="center">
+  <i>"Knowledge shared within trust circles grows stronger."</i> 🌱
+</p>
+
+
